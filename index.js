@@ -1,6 +1,6 @@
 const game = () => {
-    let pScore = 0;
-    let cScore = 0;
+    var pScore = 0;
+    var cScore = 0;
 
     //Start the Game
     const startGame = () => {
